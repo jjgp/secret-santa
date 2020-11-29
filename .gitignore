@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+__pycache__/
+credentials.json
+emails.yaml
+token.pickle

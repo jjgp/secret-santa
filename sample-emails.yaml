@@ -1,0 +1,5 @@
+qux@quux.com:
+bar@baz.com:
+  - foo@bar.com
+foo@bar.com:
+  - bar@baz.com

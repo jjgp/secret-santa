@@ -1,0 +1,14 @@
+name: secret-santa
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - autopep8
+  - flake8
+  - google-api-python-client
+  - google-auth-httplib2
+  - google-auth-oauthlib
+  - pre-commit
+  - python=3.8.6
+  - rope
+  - yaml
